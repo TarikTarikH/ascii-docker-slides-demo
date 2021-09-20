@@ -8,8 +8,22 @@ ifndef::backend[:backend: html5]
 
 == Ausgangssituation
 
+== Was war?
+=== Einseitige Kommunikation mit Schüler/innen und Lehrperson
+//SCREENSHOT FRANKLYN EINFÜGEN
+
 === Was war?
+* Veraltete Libraries
+* Funktionen sehr beschränkt
 
 == Was ist?
+=== Franklyn2 läuft auf dem Server
+//SCREENSHOT EINFÜGEN
+
+=== Was ist?
+* Libraries wurden zum Teil geupdated
 
 == Was wird sein?
+* Weitere Libraries werden geupdated
+* Intergration von Git
+* Aufzeigefunktion
