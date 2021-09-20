@@ -1,0 +1,15 @@
+= Franklyn2
+Thomas W. Stütz
+1.0, 2020-08-22
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+== Ausgangssituation
+
+=== Was war?
+
+== Was ist?
+
+== Was wird sein?
