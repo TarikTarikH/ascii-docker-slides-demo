@@ -6,25 +6,37 @@ ifndef::imagesdir[:imagesdir: images]
 ifndef::backend[:backend: html5]
 :icons: font
 
-== Ausgangssituation
+
+== Was war?
+
+=== Ausgangssituation
 Die HTL Leonding ist eine HTL im Zentralraum von Oberösterreich.
 
-Für Tests und Schularbeiten am PC wurde Franklyn benutzt, um Professoren die Hilfe für Schüler zu erleichtern und eine gerechtere Umgebung zu schaffen.
+=== Ist-Zustand
+Für Tests und Schularbeiten am PC wurde das von Schülern entwickelte Franklyn benutzt, um Professoren die Hilfe für Schüler zu erleichtern und eine gerechtere Umgebung zu schaffen.
 
-== Problemstellung
-- die Libraries von Franklyn sind einige Jahre veraltet,
-- es ist sehr einseitig gestaltet, nachdem die Schüler in dem Client keinerlei Hilfe anfordern können.
+=== Problem
+Die Libraries von Franklyn sind einige Jahre veraltet und es ist sehr einseitig gestaltet, da die Schüler in dem Client keinerlei Hilfe anfordern können.
 
 
-== Ist-Zustand
+=== Aufgabenstellung
+
+=== Ziele
+
+
+== Was ist
+
+=== Derzeitiges Ergebnis
 - Franklyn2 mit aktualisierten Libraries,
 - Aktualisierte Clients für Linux / Windows, Mac noch nicht kompatibel,
-- Implementierte Sicherungsskripts für die Integration von Git, die noch nicht in den derzeitigen Clients vorhanden sind, da sie noch getestet werden.
+- Sicherungsskripts für die Integration von Git, die noch nicht in dem Client eingebunden sind.
 
 === Live Demo
 - https://franklyn2.htl-leonding.ac.at[window=_blank]
 
 == Was wird sein?
-- Einbindung der Sicherungsskripts
+
+=== Nächsten Schritte
+- Verwendung der Sicherungsskripts in den Clients
 - Client für Mac bereitstellen
 - Aufzeige-Funktion für Schüler
