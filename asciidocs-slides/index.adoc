@@ -20,22 +20,22 @@ Die Libraries von Franklyn sind einige Jahre veraltet und es ist sehr einseitig 
 
 
 === Aufgabenstellung
-- Den alten Franklyn auf franklyn2.htl-leonding.ac.at hosten,
-- verwendete Libraries aktualisieren,
-- Aufzeigefunktion für Schüler mit Benachrichtigung bei der Lehrperson,
-- automatische Sicherung des Arbeitsverzeichnisses in bestimmten Intervallen.
+- Den alten Franklyn auf franklyn2.htl-leonding.ac.at hosten
+- Verwendete Libraries aktualisieren
+- Aufzeige-Funktion für Schüler mit Benachrichtigung bei der Lehrperson
+- Automatische Sicherung des Arbeitsverzeichnisses in bestimmten Intervallen
 
 === Ziele
-- Ein Rückfallsystem für Franklyn zu haben, falls dieser ausfallen sollte.
-- Sobald die neuen Funktionen einwandfrei funktionieren, den alten Franklyn ablösen.
+- Ein Rückfallsystem für Franklyn zu haben, falls dieser ausfallen sollte
+- Sobald die neuen Funktionen einwandfrei funktionieren, den alten als primären Franklyn abzulösen
 
 
 == Was ist
 
 === Derzeitiges Ergebnis
-- Franklyn2 mit aktualisierten Libraries,
-- Aktualisierte Clients für Linux / Windows, Mac noch nicht kompatibel,
-- Sicherungsskripts für die Integration von Git, die noch nicht in dem Client eingebunden sind.
+- Franklyn2 mit aktualisierten Libraries
+- Aktualisierte Clients für Linux / Windows, Mac noch nicht kompatibel
+- Sicherungsskripts für die Integration von Git, die noch nicht in dem Client eingebunden sind
 
 === Live Demo
 - https://franklyn2.htl-leonding.ac.at[window=_blank]
@@ -46,3 +46,5 @@ Die Libraries von Franklyn sind einige Jahre veraltet und es ist sehr einseitig 
 - Verwendung der Sicherungsskripts in den Clients
 - Client für Mac bereitstellen
 - Aufzeige-Funktion für Schüler
+
+== Danke für Ihre Aufmerksamkeit
