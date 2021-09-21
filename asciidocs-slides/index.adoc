@@ -20,8 +20,14 @@ Die Libraries von Franklyn sind einige Jahre veraltet und es ist sehr einseitig 
 
 
 === Aufgabenstellung
+- Den alten Franklyn auf franklyn2.htl-leonding.ac.at hosten,
+- verwendete Libraries aktualisieren,
+- Aufzeigefunktion für Schüler mit Benachrichtigung bei der Lehrperson,
+- automatische Sicherung des Arbeitsverzeichnisses in bestimmten Intervallen.
 
 === Ziele
+- Ein Rückfallsystem für Franklyn zu haben, falls dieser ausfallen sollte.
+- Sobald die neuen Funktionen einwandfrei funktionieren, den alten Franklyn ablösen.
 
 
 == Was ist
