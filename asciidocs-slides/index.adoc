@@ -16,12 +16,14 @@ Die HTL Leonding ist eine HTL im Zentralraum von Oberösterreich.
 Für Tests und Schularbeiten am PC wurde das von Schülern entwickelte Franklyn benutzt, um Professoren die Hilfe für Schüler zu erleichtern und eine gerechtere Umgebung zu schaffen.
 
 === Problem
-Die Libraries von Franklyn sind einige Jahre veraltet und es ist sehr einseitig gestaltet, da die Schüler in dem Client keinerlei Hilfe anfordern können.
+- Die Libraries von Franklyn sind einige Jahre veraltet
+- Franklyn ist sehr einseitig gestaltet
+- Es besteht die Möglichkeit, dass ein Schüler den falschen Ordner abgibt oder gar seinen ganzen Ordner löscht
 
 
 === Aufgabenstellung
-- Den alten Franklyn auf franklyn2.htl-leonding.ac.at hosten
 - Verwendete Libraries aktualisieren
+- Zeilenanzahl von bestimmten Dateiendungen mitprotokollieren
 - Aufzeige-Funktion für Schüler mit Benachrichtigung bei der Lehrperson
 - Automatische Sicherung des Arbeitsverzeichnisses in bestimmten Intervallen
 
