@@ -1,0 +1,52 @@
+= Franklyn2
+Birklbauer Jonas, Bojer Nico, Gahleitner Lorenz, Hosic Tarik
+1.0, 2020-08-22
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+
+== Was war?
+
+=== Ausgangssituation
+Die HTL Leonding ist eine HTL im Zentralraum von Oberösterreich.
+
+=== Ist-Zustand
+Für Tests und Schularbeiten am PC wurde das von Schülern entwickelte Franklyn benutzt, um Professoren die Hilfe für Schüler zu erleichtern und eine gerechtere Umgebung zu schaffen.
+
+=== Problem
+- Die Libraries von Franklyn sind einige Jahre veraltet
+- Franklyn ist sehr einseitig gestaltet
+- Es besteht die Möglichkeit, dass ein Schüler den falschen Ordner abgibt oder gar seinen ganzen Ordner löscht
+
+
+=== Aufgabenstellung
+- Verwendete Libraries aktualisieren
+- Zeilenanzahl von bestimmten Dateiendungen mitprotokollieren
+- Aufzeige-Funktion für Schüler mit Benachrichtigung bei der Lehrperson
+- Automatische Sicherung des Arbeitsverzeichnisses in bestimmten Intervallen
+
+=== Ziele
+- Ein Rückfallsystem für Franklyn zu haben, falls dieser ausfallen sollte
+- Sobald die neuen Funktionen einwandfrei funktionieren, den alten als primären Franklyn abzulösen
+
+
+== Was ist
+
+=== Derzeitiges Ergebnis
+- Franklyn2 mit aktualisierten Libraries
+- Aktualisierte Clients für Linux / Windows, Mac noch nicht kompatibel
+- Sicherungsskripts für die Integration von Git, die noch nicht in dem Client eingebunden sind
+
+=== Live Demo
+- https://franklyn2.htl-leonding.ac.at[window=_blank]
+
+== Was wird sein?
+
+=== Nächsten Schritte
+- Verwendung der Sicherungsskripts in den Clients
+- Client für Mac bereitstellen
+- Aufzeige-Funktion für Schüler
+
+== Danke für Ihre Aufmerksamkeit
